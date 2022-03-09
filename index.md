@@ -7,7 +7,10 @@ Pantalones, camisetas, vestidos.
 
 [camisetas](./camisetas.md)
 
-[vestidos](./vestidos) 
+[vestidos](./vestidos.md) 
+
+[Pantalones](./pantalones.md)
+
 
 
 
