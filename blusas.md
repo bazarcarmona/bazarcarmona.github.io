@@ -4,7 +4,7 @@ Como por ejemplo:
 [Blusas de manga larga](./blusas2.md)
 
 
-Blusas sin manga
+[Blusas sin manga ](./blusassinmanga.md)
 
 
 Blusas al hombro 
