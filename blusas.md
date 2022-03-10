@@ -7,6 +7,6 @@ Como por ejemplo:
 [Blusas sin manga ](./blusassinmanga.md)
 
 
-Blusas al hombro 
+[Blusas al hombro ](./blusashombro.md)
 
 [MENU PRINCIPAL](./bazarcarmona.github.io)
