@@ -13,7 +13,7 @@ blusas de colores
 
 
 
-![image](https://user-images.githubusercontent.com/99924826/157768139-e982f8e2-6184-4b5d-b68a-aa888c463148.png)
+
 
 
 
